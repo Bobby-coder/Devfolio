@@ -1,0 +1,81 @@
+.project-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .project-wrapper .screenshot > img{
+    width: 100%;
+    object-fit: contain;
+    transition: all 0.3s ease-in-out;
+    border-radius: 3px;
+    box-shadow: rgb(0 0 0 / 25%) 0px 54px 55px, rgb(0 0 0 / 12%) 0px -12px 30px, rgb(0 0 0 / 12%) 0px 4px 6px, rgb(0 0 0 / 17%) 0px 12px 13px, rgb(0 0 0 / 9%) 0px -3px 5px;
+  }
+
+  .project-wrapper .screenshot > img:hover{
+    display: inline-block;
+    transform: scale(1.2);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+  .project-wrapper .title > p{
+    font-size: 20px;
+    line-height: 20px;
+    color: #eee;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-weight: 500;
+  }
+
+  .project-wrapper .live-link > a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: #eee;
+  }
+
+  .project-wrapper .github-link .git-icon{
+    height: 30px;
+  }
+
+
+  @media only screen and (min-width:320px) and (max-width:400px){
+
+    .project-wrapper{
+      gap: 5px;
+    }
+
+    .project-wrapper .live-link > a{
+      font-size: 13px;
+    }
+
+    .project-wrapper .title > p{
+      font-size: 15px;
+      line-height: 15px;
+    }
+
+    .git-icon{
+      transform: scale(0.8);
+    }
+
+    .project-wrapper .github-link .git-icon{
+      height: 25px;
+    }
+  
+  }
+
+  @media only screen and (min-width:401px) and (max-width:500px){
+
+    .project-wrapper .live-link > a{
+      font-size: 16px;
+    }
+
+    .project-wrapper .title > p{
+      font-size: 18px;
+      line-height: 18px;
+    } 
+  }
