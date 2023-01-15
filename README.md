@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Devfolio 🔥
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Multipage Portfolio Template for Developers 🚀
 
-## Available Scripts
+## [Demo Link](https://devefolio.netlify.app) 🔗
 
-In the project directory, you can run:
+<div align="center">
+  <img src="https://youtu.be/MMYcBfJ1Xw0" alt="Devfolio Demo" width="100%" target="_blank" />
+  <br>
+</div>
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ### **Easy to Setup 💯** 
+- ### **Free to Use ( OpenSource ) 🥳**
+- ### **Multi Page 💎** 
+- ### **Fully Responsive 🚀**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies used 🛠️
 
-### `npm test`
+- **HTML** 🚀
+- **CSS** 🚀
+- **JavaScript** 🚀
+- **React JS** 🚀
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment 📦
 
-### `npm run build`
+Once you have done with your setup. You need to put your website online!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Whenever you wanna host a new site on Netlify. You will need to press the **Create New Site** button from the Netlify's dashboard once you login into Netlify.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Once you press the **Create Site Button** then you will have to follow the 3 steps:
 
-### `npm run eject`
+1. You will have to select your Github account.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Then select the Repository which you wanna host, in this case its your Portfolio website ( Clone of Devfolio )
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **CI= npm run build** and then modify the **Publish directory** and set its value to **/** as shown in the  **image** below
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="center">
+  <img src="" alt="Devfolio Build Command Example and Publish Directory Value" width="100%" />
+  <br>
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
+Then hit the **Deploy site** button and your **Portfolio Site** is live 🥳
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Give a Star ⭐
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you like this project then give it a **Github** star by pressing the **Star** button ⭐
 
-### Code Splitting
+## Author 👨‍💻
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Bobby Sadhwani** - **[Linkedin](https://www.linkedin.com/in/bobby-sadhwani)**, **[Twitter](https://twitter.com/BOBBY__SADHWANI)**, **[Github](https://github.com/Bobby-coder)**, **[Portfolio](https://bobby-sadhwani.netlify.app)**  
 
-### Analyzing the Bundle Size
+#### Note: 
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/bobby-sadhwani)** or my email id **bobbysadhwani612@gmail.com** 🙌
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
