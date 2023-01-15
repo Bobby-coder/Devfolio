@@ -5,7 +5,7 @@
 ## [Demo Link](https://devefolio.netlify.app) 🔗
 
 <div align="center">
-  <img src="https://youtu.be/MMYcBfJ1Xw0" alt="Devfolio Demo" width="100%" target="_blank" />
+  <img src="https://i.postimg.cc/NMywwZ3T/Screenshot-2023-01-14-145956.png" alt="Devfolio Demo" width="100%" target="_blank" />
   <br>
 </div>
 
@@ -37,14 +37,7 @@ Once you press the **Create Site Button** then you will have to follow the 3 ste
 
 2. Then select the Repository which you wanna host, in this case its your Portfolio website ( Clone of Devfolio )
 
-3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **CI= npm run build** and then modify the **Publish directory** and set its value to **/** as shown in the  **image** below
-
-<div align="center">
-  <img src="" alt="Devfolio Build Command Example and Publish Directory Value" width="100%" />
-  <br>
-</div>
-
-<br>
+3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **CI= npm run build**
 
 Then hit the **Deploy site** button and your **Portfolio Site** is live 🥳
 
